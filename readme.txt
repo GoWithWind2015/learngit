@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 new line for readme.txt
 My stupid boss still prefers SVN
+this is a new line at 4/2
